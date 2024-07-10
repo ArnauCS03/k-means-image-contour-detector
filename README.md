@@ -6,8 +6,8 @@ This project was developed as part of the subject VC (Computer Vision) at FIB - 
 Implement a system that detects the contourn of objects in color images where the object is distinguishable from the background by its color. <br><br>
 
 > [!IMPORTANT]
-> Dependencies: MATLAB with Image Processing Toolbox
-> You can find the detailed project process in the document titled *project_structure_and_results.pdf*
+> Dependencies: MATLAB with Image Processing Toolbox <br><br>
+> You can find the detailed project process in the document titled  *project_structure_and_results.pdf*
 
 <br>
     
