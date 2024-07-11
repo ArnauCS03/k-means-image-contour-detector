@@ -7,7 +7,7 @@ Implement a system that detects the contourn of objects in color images where th
 
 > [!IMPORTANT]
 > Dependencies: MATLAB with Image Processing Toolbox <br><br>
-> You can find the detailed project process in the document titled  *project_structure_and_results.pdf*
+> You can find the detailed project process in the document titled  *project_structure_and_results.pdf* &nbsp; (and also the code)
 
 <br>
     
